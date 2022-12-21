@@ -11,14 +11,14 @@ FSSTDS is meant for students, practicioners, and learners with introductory-leve
 
 It assumes you can run the Jupyter notebooks. You can do this either from your local machine using Jupyter Lab (downloadable from https://www.anaconda.com/products/distribution) or by clicking on the links in each notebook for "open in Google Colab" or "open in Binder", like so: 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/berniehogan/fsstds/master?filepath=chapters%2FCh.00.Prologue.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/berniehogan/fsstds/HEAD)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/berniehogan/fsstds/blob/master/chapters/Ch.00.Prologue.ipynb)
 
 
 # Navigating this repository
 This repository contains several subfolders for the book:
 
-- [chapters](chapters) contains Jupyter notebooks for all of the headers and code in the book. It should correspond precisely to the code in the book, but where it does not, it is typically that the GitHub code has been updated for clarity, security, or functionality 
+- [chapters](chapters) contains Jupyter notebooks for all of the headers and code in the book. It should correspond precisely to the code in the book, but where it does not, it is typically that the GitHub code has been updated for clarity, security, or functionality. Please note, unfortunately, the notebooks do not have the explanatory text but **only the code plus all the headers whether that section included code or not**. 
 - [exercises](exercises) contains Jupyter notebooks of exercises that I have given over the years which correspond to different chapters of the book. Many of these are mentioned specifically in the book, but others are there simply because I think they can help you learn and practice. You can also find multiple choice quizzes on Sage's online resource page. 
 - [data](data) contains almost all of the data you will need for this book. The one exception is Stack Exchange. In the later chapters we use an export of a Stack Exchange archive. You should get this data yourself [from the Internet Archive](https://archive.org/download/stackexchange). If you are having issues creating a pickle file from this data (as per the code in Chapter 10) then you can use [this notebook](supplemental_notebooks/Ch.supp.StackExchangeDownload.ipynb) to directly download and process the Stack Exchange. I recommend walking through Chapter 10 regardless. The rest of the data is either fair use, creative commons, or provided with permission (GADM shape files).  
 - [img](img) are images that I want to include in the GitHub repo, as well as copies of all the images in the book for reference (though you should be able to produce these yourself using the Jupyter notebooks). 
