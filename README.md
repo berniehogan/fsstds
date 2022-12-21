@@ -7,7 +7,7 @@ This repository contains the complete code for the book **From Social Science to
 This book is designed to cover core data science skills from a social science perspective. It is written as an introductory textbook to Social Data Science. 
 
 # Who is this book for
-FSSTDS is meant for students, practicioners, and learners with introductory-level Python skills who want to learn how to shape, clean, and analyse data, especially data from social media. A good place to brush up these intro skills might be my own [Introducing Python]() or Van Der Plas' [Whirlwind Tour of Python](https://github.com/berniehogan/IntroducingPython). 
+FSSTDS is meant for students, practicioners, and learners with introductory-level Python skills who want to learn how to shape, clean, and analyse data, especially data from social media. A good place to brush up these intro skills might be my own [Introducing Python](https://github.com/berniehogan/IntroducingPython) or Van Der Plas' [Whirlwind Tour of Python](https://github.com/berniehogan/IntroducingPython). 
 
 It assumes you can run the Jupyter notebooks. You can do this either from your local machine using Jupyter Lab (downloadable from https://www.anaconda.com/products/distribution) or by clicking on the links in each notebook for "open in Google Colab" or "open in Binder", like so: 
 
