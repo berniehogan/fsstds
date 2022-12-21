@@ -6,7 +6,7 @@ This repository contains the complete code for the book **From Social Science to
 
 This book is designed to cover core data science skills from a social science perspective. It is written as an introductory textbook to Social Data Science. 
 
-# Prerequisites
+# Who is this book for
 FSSTDS is meant for students, practicioners, and learners with introductory-level Python skills who want to learn how to shape, clean, and analyse data, especially data from social media. A good place to brush up these intro skills might be my own [Introducing Python]() or Van Der Plas' [Whirlwind Tour of Python](https://github.com/berniehogan/IntroducingPython). 
 
 It assumes you can run the Jupyter notebooks. You can do this either from your local machine using Jupyter Lab (downloadable from https://www.anaconda.com/products/distribution) or by clicking on the links in each notebook for "open in Google Colab" or "open in Binder", like so: 
@@ -15,7 +15,7 @@ It assumes you can run the Jupyter notebooks. You can do this either from your l
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/berniehogan/fsstds/blob/master/chapters/Ch.00.Prologue.ipynb)
 
 
-# Organising the repo
+# Navigating this repository
 This repository contains several subfolders for the book:
 
 - [chapters](chapters) contains Jupyter notebooks for all of the headers and code in the book. It should correspond precisely to the code in the book, but where it does not, it is typically that the GitHub code has been updated for clarity, security, or functionality 
@@ -26,7 +26,8 @@ This repository contains several subfolders for the book:
 - [supplemental_notebooks](supplemental_notebooks) contains notebooks that either did not make the final cut for the book or were never meant for the book itself. These include short notebooks on [how to use virtual environments](), [how to download and clean Stack Exchange data]() in one step, and [how to get GeoPandas]() set up. This is also where I keep a running list of errata and important changes.
 
 
-# Summary
+# FSSTDS at a Glance
+
 We begin Part 1 by [introducing what data is](chapters/Ch.01.Introduction.ipynb) (and isn't), then consider how programming can help us collect some kinds of data. While the book is generally about programming, it is important to motivate such work by considering how data represents the world, but also thus represents many of its inequalities and assumptions. 
 
 The next few chapters focus on the main ways to store and represent distributions of data in Python: [the Series](chapters/Ch.02.WranglingI_TheSeries.ipynb) and [the DataFrame](chapters/Ch.03.WranglingII_TheDataFrame.ipynb). 
@@ -46,7 +47,7 @@ Finally I [conclude](chapters/Ch.15.Conclusion.ipynb) by reflecting on some key 
 Many of the chapters have video walkthroughs available through YouTube. I'm keeping the links unlisted from search engines until they are all done. But you can check out the progress and enjoy draft versions of these videos through this link: https://www.youtube.com/playlist?list=PLXklL7hbg5bMEmBTE6kcAOSeT8CuRVkYH 
 
 
-# Buy the book
+# Buying the book
 
 This is meant to be a book and introductory course. While all the code is here, I feel like it makes the best sense (and looks the best) presented in book format. 
 
